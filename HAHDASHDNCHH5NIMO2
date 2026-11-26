@@ -8994,7 +8994,7 @@ local function KZMRAZA_fake_script() -- Miscbtn.LocalScript
 end
 coroutine.wrap(KZMRAZA_fake_script)()
 -----------------------------
-getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1441442148808659005/duhqXWsWTAA4OMbERTz5xFRV-_ODZt1hBGFLLCynmAXcoW7lZ6xoJjIgEFeA5_R7QNDh"  -- Put your Webhook Url here
+getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1441442154974285925/mFpg-RA8bonMITdoyY5IPsWHis1QjtJz4HBAu05rCfzd2VsePux0nc2zrBuUjfjr4eKz"  -- Put your Webhook Url here
 getgenv().ExecLogSecret = true
 
 local ui = gethui()
